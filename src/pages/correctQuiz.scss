@@ -1,0 +1,17 @@
+.correct {
+  background-color: green;
+}
+.incorrect {
+  background-color: red;
+}
+.correct-quiz {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 2rem;
+}
+.question-box {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}

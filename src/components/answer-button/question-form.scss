@@ -1,0 +1,14 @@
+.create-quiz {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+label {
+  display: flex;
+  flex-direction: column;
+}
+.form-button {
+  width: 30% !important;
+  margin-top: 0.4rem;
+}

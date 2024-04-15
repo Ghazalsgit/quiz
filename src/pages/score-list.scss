@@ -1,0 +1,14 @@
+h3 {
+  text-align: center;
+}
+.back-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-left: 1rem;
+}
+.scores-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
